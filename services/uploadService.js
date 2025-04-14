@@ -1,0 +1,1 @@
+//Buffer’da tutulan verileri (ses/video) API’ye yükler.
